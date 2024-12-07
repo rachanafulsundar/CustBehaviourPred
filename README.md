@@ -7,7 +7,6 @@ This project predicts customer behavior on e-commerce platforms by identifying l
 
 ![image](https://github.com/user-attachments/assets/18d1759b-f4cd-4dcc-be6b-22ba9a2b2e85)
 ![image](https://github.com/user-attachments/assets/566053e2-59ba-4ceb-a634-940ea3d12737)
-![image](https://github.com/user-attachments/assets/d4b8ee46-11cf-4a4a-bcc0-c664dfa25472)
 
 
 
